@@ -4,7 +4,7 @@
   "description": "web app that can be used to chat in real time.",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js"
+    "start": "node server.js"
   },
   "author": "Shane Ahmad",
   "license": "ISC",
